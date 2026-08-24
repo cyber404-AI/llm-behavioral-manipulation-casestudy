@@ -1,6 +1,7 @@
 # Case Study: Behavioral Prompt Injection & Conversational Social Engineering against an LLM
 
-**Author:** B.Tech 3rd Year Cybersecurity Student  
+**Author:** M.Rohit Chouhan 
+B.Tech 3rd Year Cybersecurity Student  
 **Target System:** Generative AI Conversational Model  
 **Classification:** Offensive Security / AI Red-Teaming Research  
 **Status:** Completed / Documented  
